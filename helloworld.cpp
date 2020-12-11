@@ -16,6 +16,7 @@ int main()
         cout << word << " ";
         int x = 20;
         double valeur = 25;
+        string name = "liedji wenkack dagobert";
     }
     cout << endl;
 }
