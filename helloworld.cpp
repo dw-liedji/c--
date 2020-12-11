@@ -17,6 +17,7 @@ int main()
         int x = 20;
         double valeur = 25;
         string name = "liedji wenkack dagobert";
+        string name = "odile koom je t'aime et toi ?";
     }
     cout << endl;
 }
