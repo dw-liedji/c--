@@ -14,7 +14,8 @@ int main()
     for (const string& word : msg)
     {
         cout << word << " ";
-        x = 20;
+        int x = 20;
+        double valeur = 25;
     }
     cout << endl;
 }
